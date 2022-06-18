@@ -1,0 +1,15 @@
+C:\Users\SUN\source\repos\C# Basics\Exceptions\bin\Debug\net6.0\Exceptions.exe
+C:\Users\SUN\source\repos\C# Basics\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+C:\Users\SUN\source\repos\C# Basics\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+C:\Users\SUN\source\repos\C# Basics\Exceptions\bin\Debug\net6.0\Exceptions.dll
+C:\Users\SUN\source\repos\C# Basics\Exceptions\bin\Debug\net6.0\ref\Exceptions.dll
+C:\Users\SUN\source\repos\C# Basics\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\SUN\source\repos\C# Basics\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\SUN\source\repos\C# Basics\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUN\source\repos\C# Basics\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\SUN\source\repos\C# Basics\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Exceptions\obj\Debug\net6.0\Exceptions.dll
+C:\Users\SUN\source\repos\C# Basics\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll
+C:\Users\SUN\source\repos\C# Basics\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+C:\Users\SUN\source\repos\C# Basics\Exceptions\obj\Debug\net6.0\Exceptions.genruntimeconfig.cache

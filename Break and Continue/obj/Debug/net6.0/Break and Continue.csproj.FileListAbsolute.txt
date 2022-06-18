@@ -1,0 +1,15 @@
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\bin\Debug\net6.0\Break and Continue.exe
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\bin\Debug\net6.0\Break and Continue.deps.json
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\bin\Debug\net6.0\Break and Continue.runtimeconfig.json
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\bin\Debug\net6.0\Break and Continue.dll
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\bin\Debug\net6.0\ref\Break and Continue.dll
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\bin\Debug\net6.0\Break and Continue.pdb
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\obj\Debug\net6.0\Break and Continue.csproj.AssemblyReference.cache
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\obj\Debug\net6.0\Break and Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\obj\Debug\net6.0\Break and Continue.AssemblyInfoInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\obj\Debug\net6.0\Break and Continue.AssemblyInfo.cs
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\obj\Debug\net6.0\Break and Continue.csproj.CoreCompileInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\obj\Debug\net6.0\Break and Continue.dll
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\obj\Debug\net6.0\ref\Break and Continue.dll
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\obj\Debug\net6.0\Break and Continue.pdb
+C:\Users\SUN\source\repos\C# Basics\Break and Continue\obj\Debug\net6.0\Break and Continue.genruntimeconfig.cache
