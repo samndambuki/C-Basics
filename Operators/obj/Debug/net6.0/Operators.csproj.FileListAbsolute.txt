@@ -1,0 +1,15 @@
+C:\Users\SUN\source\repos\C# Basics\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+C:\Users\SUN\source\repos\C# Basics\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUN\source\repos\C# Basics\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\Users\SUN\source\repos\C# Basics\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Operators\bin\Debug\net6.0\Operators.exe
+C:\Users\SUN\source\repos\C# Basics\Operators\bin\Debug\net6.0\Operators.deps.json
+C:\Users\SUN\source\repos\C# Basics\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\Users\SUN\source\repos\C# Basics\Operators\bin\Debug\net6.0\Operators.dll
+C:\Users\SUN\source\repos\C# Basics\Operators\bin\Debug\net6.0\ref\Operators.dll
+C:\Users\SUN\source\repos\C# Basics\Operators\bin\Debug\net6.0\Operators.pdb
+C:\Users\SUN\source\repos\C# Basics\Operators\obj\Debug\net6.0\Operators.dll
+C:\Users\SUN\source\repos\C# Basics\Operators\obj\Debug\net6.0\ref\Operators.dll
+C:\Users\SUN\source\repos\C# Basics\Operators\obj\Debug\net6.0\Operators.pdb
+C:\Users\SUN\source\repos\C# Basics\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
