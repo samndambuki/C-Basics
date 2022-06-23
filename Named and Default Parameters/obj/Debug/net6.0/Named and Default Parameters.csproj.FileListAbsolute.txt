@@ -1,0 +1,15 @@
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\bin\Debug\net6.0\Named and Default Parameters.exe
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\bin\Debug\net6.0\Named and Default Parameters.deps.json
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\bin\Debug\net6.0\Named and Default Parameters.runtimeconfig.json
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\bin\Debug\net6.0\Named and Default Parameters.dll
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\bin\Debug\net6.0\Named and Default Parameters.pdb
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\Named and Default Parameters.csproj.AssemblyReference.cache
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\Named and Default Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\Named and Default Parameters.AssemblyInfoInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\Named and Default Parameters.AssemblyInfo.cs
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\Named and Default Parameters.csproj.CoreCompileInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\Named and Default Parameters.dll
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\refint\Named and Default Parameters.dll
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\Named and Default Parameters.pdb
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\Named and Default Parameters.genruntimeconfig.cache
+C:\Users\SUN\source\repos\C# Basics\Named and Default Parameters\obj\Debug\net6.0\ref\Named and Default Parameters.dll

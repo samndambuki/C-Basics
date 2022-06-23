@@ -1,0 +1,15 @@
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\bin\Debug\net6.0\Guess The Number Challenge.exe
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\bin\Debug\net6.0\Guess The Number Challenge.deps.json
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\bin\Debug\net6.0\Guess The Number Challenge.runtimeconfig.json
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\bin\Debug\net6.0\Guess The Number Challenge.dll
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\bin\Debug\net6.0\Guess The Number Challenge.pdb
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\Guess The Number Challenge.csproj.AssemblyReference.cache
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\Guess The Number Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\Guess The Number Challenge.AssemblyInfoInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\Guess The Number Challenge.AssemblyInfo.cs
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\Guess The Number Challenge.csproj.CoreCompileInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\Guess The Number Challenge.dll
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\refint\Guess The Number Challenge.dll
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\Guess The Number Challenge.pdb
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\Guess The Number Challenge.genruntimeconfig.cache
+C:\Users\SUN\source\repos\C# Basics\Guess The Number Challenge\obj\Debug\net6.0\ref\Guess The Number Challenge.dll

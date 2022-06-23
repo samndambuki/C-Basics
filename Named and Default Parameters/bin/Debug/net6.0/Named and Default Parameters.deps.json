@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Named and Default Parameters/1.0.0": {
+        "runtime": {
+          "Named and Default Parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Named and Default Parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
