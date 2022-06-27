@@ -1,0 +1,15 @@
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\bin\Debug\net6.0\Returning Multiple Values.exe
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\bin\Debug\net6.0\Returning Multiple Values.deps.json
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\bin\Debug\net6.0\Returning Multiple Values.runtimeconfig.json
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\bin\Debug\net6.0\Returning Multiple Values.dll
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\bin\Debug\net6.0\Returning Multiple Values.pdb
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\Returning Multiple Values.csproj.AssemblyReference.cache
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\Returning Multiple Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\Returning Multiple Values.AssemblyInfoInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\Returning Multiple Values.AssemblyInfo.cs
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\Returning Multiple Values.csproj.CoreCompileInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\Returning Multiple Values.dll
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\refint\Returning Multiple Values.dll
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\Returning Multiple Values.pdb
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\Returning Multiple Values.genruntimeconfig.cache
+C:\Users\SUN\source\repos\C# Basics\Returning Multiple Values\obj\Debug\net6.0\ref\Returning Multiple Values.dll

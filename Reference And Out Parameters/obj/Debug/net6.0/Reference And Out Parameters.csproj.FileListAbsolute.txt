@@ -1,0 +1,15 @@
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\bin\Debug\net6.0\Reference And Out Parameters.exe
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\bin\Debug\net6.0\Reference And Out Parameters.deps.json
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\bin\Debug\net6.0\Reference And Out Parameters.runtimeconfig.json
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\bin\Debug\net6.0\Reference And Out Parameters.dll
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\bin\Debug\net6.0\Reference And Out Parameters.pdb
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\Reference And Out Parameters.csproj.AssemblyReference.cache
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\Reference And Out Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\Reference And Out Parameters.AssemblyInfoInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\Reference And Out Parameters.AssemblyInfo.cs
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\Reference And Out Parameters.csproj.CoreCompileInputs.cache
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\Reference And Out Parameters.dll
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\refint\Reference And Out Parameters.dll
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\Reference And Out Parameters.pdb
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\Reference And Out Parameters.genruntimeconfig.cache
+C:\Users\SUN\source\repos\C# Basics\Reference And Out Parameters\obj\Debug\net6.0\ref\Reference And Out Parameters.dll
